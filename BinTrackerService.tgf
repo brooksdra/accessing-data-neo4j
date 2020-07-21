@@ -1,0 +1,268 @@
+701526215 com.protedyne:BinTrackerService:jar:1.6.0
+1923626523 org.hibernate:hibernate-core:jar:5.2.11.Final:compile
+910658510 org.jboss.logging:jboss-logging:jar:3.3.0.Final:compile
+1287728562 org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final:compile
+99253188 org.javassist:javassist:jar:3.20.0-GA:compile
+970423785 antlr:antlr:jar:2.7.7:compile
+1768926513 org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.1.Final:compile
+738636051 org.jboss:jandex:jar:2.0.3.Final:compile
+2053425932 com.fasterxml:classmate:jar:1.3.3:compile
+2019482012 dom4j:dom4j:jar:1.6.1:compile
+1816978819 org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final:compile
+1968922416 org.springframework.boot:spring-boot-starter-log4j:jar:1.3.8.RELEASE:compile
+700171836 org.slf4j:jcl-over-slf4j:jar:1.7.22:compile
+656898222 org.slf4j:slf4j-api:jar:1.7.22:compile
+751628596 org.slf4j:jul-to-slf4j:jar:1.7.22:compile
+63015234 org.slf4j:slf4j-log4j12:jar:1.7.22:compile
+1950102816 log4j:log4j:jar:1.2.17:compile
+1749205249 org.springframework.boot:spring-boot-starter-data-mongodb:jar:1.4.3.RELEASE:compile
+592238700 org.springframework.boot:spring-boot-starter:jar:1.4.3.RELEASE:compile
+742969054 org.springframework.boot:spring-boot:jar:1.4.3.RELEASE:compile
+969440066 org.springframework.boot:spring-boot-autoconfigure:jar:1.4.3.RELEASE:compile
+1207758771 org.yaml:snakeyaml:jar:1.17:runtime
+37142680 org.mongodb:mongodb-driver:jar:3.2.2:compile
+1759694910 org.mongodb:mongodb-driver-core:jar:3.2.2:compile
+302687243 org.mongodb:bson:jar:3.2.2:compile
+850083982 org.springframework.data:spring-data-mongodb:jar:1.9.6.RELEASE:compile
+112026691 org.springframework:spring-tx:jar:4.3.5.RELEASE:compile
+2024814472 org.springframework:spring-beans:jar:4.3.5.RELEASE:compile
+1063124585 org.springframework:spring-expression:jar:4.3.5.RELEASE:compile
+1461347900 org.springframework.data:spring-data-commons:jar:1.12.6.RELEASE:compile
+980979680 org.springframework.boot:spring-boot-starter-test:jar:1.4.3.RELEASE:test
+1124987728 org.springframework.boot:spring-boot-test:jar:1.4.3.RELEASE:test
+326362094 org.springframework.boot:spring-boot-test-autoconfigure:jar:1.4.3.RELEASE:test
+391928890 com.jayway.jsonpath:json-path:jar:2.2.0:test
+1772471998 net.minidev:json-smart:jar:2.2.1:test
+1159606185 net.minidev:accessors-smart:jar:1.1:test
+1233049719 org.ow2.asm:asm:jar:5.0.3:test
+1018618094 junit:junit:jar:4.12:compile
+2069971440 org.assertj:assertj-core:jar:2.5.0:test
+1337346642 org.mockito:mockito-core:jar:1.10.19:test
+1890881203 org.objenesis:objenesis:jar:2.1:test
+2072945115 org.hamcrest:hamcrest-core:jar:1.3:compile
+177279387 org.hamcrest:hamcrest-library:jar:1.3:test
+1997028929 org.skyscreamer:jsonassert:jar:1.3.0:test
+589166341 org.json:json:jar:20140107:test
+756222660 org.springframework:spring-core:jar:4.3.5.RELEASE:compile
+789367604 org.springframework:spring-test:jar:4.3.5.RELEASE:test
+423629474 de.flapdoodle.embed:de.flapdoodle.embed.mongo:jar:1.50.5:test
+1428777808 de.flapdoodle.embed:de.flapdoodle.embed.process:jar:1.50.2:test
+1616453147 commons-io:commons-io:jar:2.4:test
+700791887 org.apache.commons:commons-lang3:jar:3.1:test
+805957335 net.java.dev.jna:jna:jar:4.2.2:test
+786722925 net.java.dev.jna:jna-platform:jar:4.0.0:test
+107285100 org.apache.commons:commons-compress:jar:1.10:test
+105019819 org.springframework.boot:spring-boot-starter-tomcat:jar:1.4.3.RELEASE:provided
+2034385122 org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.6:provided
+1957175487 org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.6:provided
+1513124396 org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.6:provided
+1328203744 org.springframework.boot:spring-boot-starter-web:jar:1.4.3.RELEASE:compile
+612686775 org.hibernate:hibernate-validator:jar:5.2.4.Final:compile
+287095360 javax.validation:validation-api:jar:1.1.0.Final:compile
+1222908765 com.fasterxml.jackson.core:jackson-databind:jar:2.8.5:compile
+1374212198 com.fasterxml.jackson.core:jackson-core:jar:2.8.5:compile
+1395912847 org.springframework:spring-web:jar:4.3.5.RELEASE:compile
+663326227 org.springframework:spring-aop:jar:4.3.5.RELEASE:compile
+1331644236 org.springframework:spring-webmvc:jar:4.3.5.RELEASE:compile
+1487131937 org.webjars.bower:angular:jar:1.6.1:compile
+349757746 org.webjars:bootstrap:jar:3.3.7-1:compile
+2135563436 org.webjars:jquery:jar:1.11.1:compile
+1243234606 com.protedyne:BinTrackerServiceClient:jar:1.6.0:compile
+206999441 org.springframework:spring-context:jar:4.3.5.RELEASE:compile
+1607745112 com.protedyne:MessagingCommons:jar:1.6.0:compile (version selected from constraint [1.6,1.7))
+1893004914 cglib:cglib:jar:2.2.2:compile
+1759500919 asm:asm:jar:3.3.1:compile
+1355676410 org.springframework.data:spring-data-jpa:jar:1.10.6.RELEASE:compile
+781527109 org.springframework:spring-orm:jar:4.3.5.RELEASE:compile
+2032479363 org.springframework:spring-jdbc:jar:4.3.5.RELEASE:compile
+1874812338 org.aspectj:aspectjrt:jar:1.8.9:compile
+1352294549 org.apache.activemq:activemq-broker:jar:5.13.4:compile
+1472904643 org.apache.activemq:activemq-client:jar:5.13.4:compile
+123458189 org.apache.activemq:activemq-openwire-legacy:jar:5.13.4:compile
+312233241 org.apache.activemq:activemq-kahadb-store:jar:5.13.4:compile
+293669143 org.apache.activemq.protobuf:activemq-protobuf:jar:1.1:compile
+321358401 org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:jar:1.0.1:compile
+1244785938 org.apache.activemq:activemq-spring:jar:5.13.4:compile
+984978888 org.apache.xbean:xbean-spring:jar:3.18:compile
+593881656 org.apache.activemq:activemq-pool:jar:5.13.4:compile
+213850519 org.apache.activemq:activemq-jms-pool:jar:5.13.4:compile
+1227041903 org.apache.geronimo.specs:geronimo-jta_1.0.1B_spec:jar:1.0.1:compile
+1605299030 org.apache.commons:commons-pool2:jar:2.4.2:compile
+1402400433 org.apache.activemq:activemq-console:jar:5.13.4:compile
+663824117 org.apache.activemq:activeio-core:jar:3.1.4:compile
+2004952636 org.apache.geronimo.specs:geronimo-jms_1.1_spec:jar:1.1.1:compile
+1608357825 org.fusesource.hawtbuf:hawtbuf-proto:jar:1.11:compile
+995760621 org.apache.velocity:velocity:jar:1.7:compile
+366098173 commons-collections:commons-collections:jar:3.2.2:compile
+1805402813 commons-lang:commons-lang:jar:2.6:compile
+1481417616 org.apache.servicemix.bundles:org.apache.servicemix.bundles.josql:jar:1.5_5:compile
+858934277 org.jasypt:jasypt:jar:1.9.2:compile
+936632640 commons-daemon:commons-daemon:jar:1.0.15:compile
+1045677229 org.fusesource.hawtbuf:hawtbuf:jar:1.11:compile
+54440148 commons-configuration:commons-configuration:jar:1.6:compile
+575506130 commons-logging:commons-logging:jar:1.1.1:compile
+171751994 commons-digester:commons-digester:jar:2.1:compile
+720007548 commons-beanutils:commons-beanutils:jar:1.9.3:compile
+1554308325 commons-beanutils:commons-beanutils-core:jar:1.8.0:compile
+311536309 org.codehaus.jackson:jackson-mapper-asl:jar:1.9.2:compile
+2098413495 org.codehaus.jackson:jackson-core-asl:jar:1.9.2:compile
+67883256 com.protedyne:MatrixBinCommons:jar:1.4.20:compile (version selected from constraint [1.4,1.5))
+2125625192 com.protedyne:CilaServicesClient:jar:1.4.10:compile
+1634319881 com.protedyne:DataCommons:jar:1.4.6:compile (version selected from constraint [1.4,1.5))
+98818836 com.protedyne:DataServiceCommonsClient:jar:1.6.2:compile (version selected from constraint [1.6,1.7))
+1605715776 com.protedyne:DataServiceCommons:jar:1.6.2:compile
+844194537 protedyne:ProtedyneCommons:jar:7.2.1:compile (version selected from constraint [7.2,7.3))
+518261596 javax.mail:mail:jar:1.4.2:compile
+96749807 javax.activation:activation:jar:1.1:compile
+1883144272 com.google.collections:google-collections:jar:1.0-rc2:compile
+1237443220 org.jdom:jdom:jar:1.1:compile
+2000793115 xerces:xercesImpl:jar:2.9.1:compile
+1357185836 xml-apis:xml-apis:jar:1.4.01:compile
+1415390560 commons-dbcp:commons-dbcp:jar:1.4:compile
+307148861 commons-pool:commons-pool:jar:1.6:compile
+1753607449 mysql:mysql-connector-java:jar:5.1.40:compile
+276922182 hsqldb:hsqldb:jar:1.8.0.7:compile
+759840275 commons-httpclient:commons-httpclient:jar:3.1:compile
+1243800791 commons-codec:commons-codec:jar:1.10:compile
+227030447 commons-net:commons-net:jar:2.0:compile
+375918615 javax.comm:comm:jar:2.0.3:compile
+1789791855 com.protedyne.mqtt:MQTTMessagingCommons:jar:2.0.25:compile
+930569137 com.protedyne.arm:IOController:jar:1.8.8:compile (version selected from constraint [1.8,1.9))
+2073961917 org.eclipse.paho:org.eclipse.paho.client.mqttv3:jar:1.2.0:compile
+757099121 com.fasterxml.jackson.core:jackson-annotations:jar:2.8.5:compile
+937936076 org.apache.commons:commons-exec:jar:1.3:compile
+977320786 com.protedyne:TestLibrary:jar:2.2.2:test
+#
+1923626523 910658510 compile
+1923626523 1287728562 compile
+1923626523 99253188 compile
+1923626523 970423785 compile
+1923626523 1768926513 compile
+1923626523 738636051 compile
+1923626523 2053425932 compile
+1923626523 2019482012 compile
+1923626523 1816978819 compile
+701526215 1923626523 compile
+700171836 656898222 compile
+1968922416 700171836 compile
+1968922416 751628596 compile
+1968922416 63015234 compile
+1968922416 1950102816 compile
+701526215 1968922416 compile
+592238700 742969054 compile
+592238700 969440066 compile
+592238700 1207758771 runtime
+1749205249 592238700 compile
+37142680 1759694910 compile
+37142680 302687243 compile
+1749205249 37142680 compile
+850083982 112026691 compile
+850083982 2024814472 compile
+850083982 1063124585 compile
+850083982 1461347900 compile
+1749205249 850083982 compile
+701526215 1749205249 compile
+980979680 1124987728 test
+980979680 326362094 test
+1159606185 1233049719 test
+1772471998 1159606185 test
+391928890 1772471998 test
+980979680 391928890 test
+980979680 1018618094 compile
+980979680 2069971440 test
+1337346642 1890881203 test
+980979680 1337346642 test
+980979680 2072945115 compile
+980979680 177279387 test
+1997028929 589166341 test
+980979680 1997028929 test
+980979680 756222660 compile
+980979680 789367604 test
+701526215 980979680 test
+1428777808 1616453147 test
+1428777808 700791887 test
+1428777808 805957335 test
+1428777808 786722925 test
+1428777808 107285100 test
+423629474 1428777808 test
+701526215 423629474 test
+105019819 2034385122 provided
+105019819 1957175487 provided
+105019819 1513124396 provided
+701526215 105019819 provided
+612686775 287095360 compile
+1328203744 612686775 compile
+1222908765 1374212198 compile
+1328203744 1222908765 compile
+1395912847 663326227 compile
+1328203744 1395912847 compile
+1328203744 1331644236 compile
+701526215 1328203744 compile
+701526215 1487131937 compile
+349757746 2135563436 compile
+701526215 349757746 compile
+1243234606 206999441 compile
+1893004914 1759500919 compile
+1607745112 1893004914 compile
+781527109 2032479363 compile
+1355676410 781527109 compile
+1355676410 1874812338 compile
+1607745112 1355676410 compile
+1352294549 1472904643 compile
+1352294549 123458189 compile
+1607745112 1352294549 compile
+312233241 293669143 compile
+312233241 321358401 compile
+1607745112 312233241 compile
+1244785938 984978888 compile
+593881656 213850519 compile
+1244785938 593881656 compile
+1244785938 1227041903 compile
+1244785938 1605299030 compile
+1607745112 1244785938 compile
+1402400433 663824117 compile
+1402400433 2004952636 compile
+1402400433 1608357825 compile
+1402400433 995760621 compile
+1402400433 366098173 compile
+1402400433 1805402813 compile
+1402400433 1481417616 compile
+1402400433 858934277 compile
+1402400433 936632640 compile
+1607745112 1402400433 compile
+1607745112 1045677229 compile
+54440148 575506130 compile
+171751994 720007548 compile
+54440148 171751994 compile
+54440148 1554308325 compile
+1607745112 54440148 compile
+311536309 2098413495 compile
+1607745112 311536309 compile
+1243234606 1607745112 compile
+1243234606 67883256 compile
+701526215 1243234606 compile
+2125625192 1634319881 compile
+2125625192 98818836 compile
+701526215 2125625192 compile
+518261596 96749807 compile
+844194537 518261596 compile
+844194537 1883144272 compile
+844194537 1237443220 compile
+2000793115 1357185836 compile
+844194537 2000793115 compile
+1415390560 307148861 compile
+844194537 1415390560 compile
+844194537 1753607449 compile
+844194537 276922182 compile
+759840275 1243800791 compile
+844194537 759840275 compile
+844194537 227030447 compile
+844194537 375918615 compile
+1605715776 844194537 compile
+701526215 1605715776 compile
+1789791855 930569137 compile
+1789791855 2073961917 compile
+1789791855 757099121 compile
+1789791855 937936076 compile
+701526215 1789791855 compile
+701526215 977320786 test
